@@ -3,5 +3,4 @@
 
 ## Alunos que fizeram o trabalho: Tiago Leomil Balan, Lucas Leonardo Sambati, Miguel Mazini Bonilha
 
-## Para acessar o trabalho
-### src/atividades
+## Para acessar o trabalho: src/atividades
